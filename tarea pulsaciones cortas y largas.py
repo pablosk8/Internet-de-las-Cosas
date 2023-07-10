@@ -1,4 +1,4 @@
-# Tarea cap 2
+#  Tarea cap 2
 from machine import Pin
 import time
 
