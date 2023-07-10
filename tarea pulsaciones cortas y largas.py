@@ -18,5 +18,5 @@ while True:
         if contador >=200 and contador <= 400:
             print("pulsacion corta")
         contador = 0   
-        time.sleep_ms(200)   
+        time.sleep_ms(1)   
         
